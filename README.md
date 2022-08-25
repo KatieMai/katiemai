@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @katiemai
 - 👀 I’m interested in advancing my skills
 - 🌱 I’m currently learning laravel and vue.js
+- 🐕‍🦺🐻 Dog mama to 2
+- ✨ I'm into astrology
 
 <!---
 katiemai/katiemai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
